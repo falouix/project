@@ -4,3 +4,28 @@
     height: 88px !important;
     width: 88px !important;
 }
+.card_title{
+    padding: 5px 0px;
+    text-align: center;
+    background: red;
+    font-size: 15px;
+}
+.app_card{
+    height: 115px !important;
+    
+}
+.something{
+    font-size: 50px;
+    text-align: center;
+}
+.app_container_topBar{
+    height: 50px;
+    background: red;
+    width: 100%;
+}
+.close_window{
+    float: right;
+    margin-right: 14px;
+    height: 100%;
+    cursor: pointer;
+}
